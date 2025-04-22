@@ -151,7 +151,7 @@ int main() {
         } else if (pilihan == 4 && role == "admin") {
             hapusAnime(anime, &jumlahAnime);
         } else if (pilihan == 5) {
-            cout << "Terima kasih telah menggunakan sistem ini!" << endl;
+            cout << "Terima kasih telah menggunakan sistem ini. Sayonara :)" << endl;
         } else {
             cout << "Akses ditolak atau pilihan tidak valid!" << endl;
         }
